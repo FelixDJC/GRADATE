@@ -21,7 +21,7 @@
 [![visitors][visitors-img]][adgc-url]
 
 
-An official source code for paper 《Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View》, accepted by AAAI 2023. Any communications or issues are welcomed. Please contact jingcan_duan@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
+An official source code for paper &laquo;Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View&raquo;, accepted by AAAI 2023. Any communications or issues are welcomed. Please contact jingcan_duan@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
 
 -------------
 
