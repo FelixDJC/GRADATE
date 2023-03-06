@@ -32,4 +32,38 @@ Graph anomaly detection (GAD) is a vital task in graph-based machine learning an
 
 
 
-The code will be released soon. 
+<div  align="center">    
+    <img src="./assets/framework.png" width=80%/>
+</div>
+
+<div  align="center">    
+    Figure 1: Overall framework of GRADATE.
+</div>
+
+
+### Requirements
+
+The proposed GRADATE is implemented with python 3.7 on a NVIDIA 3070 GPU. 
+
+Python package information is summarized in **requirements.txt**:
+
+- torch==1.10.2
+- dgl==0.4.1
+- numpy==1.19.2
+
+### Quick Start
+
+python run.py
+
+### Citation
+
+If you find this project useful for your research, please cite your paper with the following BibTeX entry.
+
+```
+@inproceedings{GRADATE,
+  title={Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View},
+  author={Duan, Jingcan and Wang, Siwei and Zhang, Pei and Zhu, En and Hu, Jingtao and Jin, Hu and Liu, Yue and Dong, Zhibin},
+  booktitle={Proc. of AAAI},
+  year={2023}
+}
+```
