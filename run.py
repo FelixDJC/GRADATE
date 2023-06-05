@@ -31,7 +31,7 @@ parser.add_argument('--auc_test_rounds', type=int, default=256)
 parser.add_argument('--negsamp_ratio_patch', type=int, default=6)
 parser.add_argument('--negsamp_ratio_context', type=int, default=1)
 parser.add_argument('--alpha', type=float, default=0.1, help='how much the first view involves')
-parser.add_argument('--beta', type=float, default=0.1, help='how much context-level involves')
+parser.add_argument('--beta', type=float, default=0.1, help='how much the second view involves')
 args = parser.parse_args()
 
 if __name__ == '__main__':
