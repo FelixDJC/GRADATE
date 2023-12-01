@@ -18,7 +18,7 @@
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
+
 
 
 An official source code for paper "Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View", accepted by AAAI 2023. Any communications or issues are welcomed. Please contact jingcan_duan@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
@@ -60,10 +60,13 @@ python run.py
 If you find this project useful for your research, please cite your paper with the following BibTeX entry.
 
 ```
-@inproceedings{GRADATE,
-  title={Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View},
+inproceedings{GRADATE,
+  title={Graph anomaly detection via multi-scale contrastive learning networks with augmented view},
   author={Duan, Jingcan and Wang, Siwei and Zhang, Pei and Zhu, En and Hu, Jingtao and Jin, Hu and Liu, Yue and Dong, Zhibin},
-  booktitle={Proc. of AAAI},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={6},
+  pages={7459--7467},
   year={2023}
 }
 ```
